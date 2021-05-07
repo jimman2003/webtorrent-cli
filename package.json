@@ -55,7 +55,7 @@
   "license": "MIT",
   "main": "index.js",
   "optionalDependencies": {
-    "airplay-js": "^0.2.6",
+    "airplay-js": "^0.3.0",
     "chromecasts": "^1.9.1",
     "nodebmc": "^0.0.7"
   },
