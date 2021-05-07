@@ -155,7 +155,7 @@ if (argv.pip) {
 if (!argv['not-on-top']) {
   VLC_ARGS += ' --video-on-top'
   MPLAYER_EXEC += ' -ontop'
-  MPV_EXEC += ' --ontop'
+  //MPV_EXEC += ' --ontop'
 }
 
 function checkPermission (filename) {
